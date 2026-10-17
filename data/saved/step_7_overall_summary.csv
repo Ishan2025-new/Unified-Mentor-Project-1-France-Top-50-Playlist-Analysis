@@ -1,0 +1,12 @@
+Metric,Value
+Total playlist records,27781.0
+Unique songs,696.0
+Unique artists,325.0
+Records with a valid explicit flag,27781.0
+Explicit tracks,15629.0
+Non-explicit tracks,12152.0
+Explicit tracks (%),56.26
+Average song duration (minutes),3.09
+Median song duration (minutes),3.0
+Average popularity,76.64
+Average chart position,25.5

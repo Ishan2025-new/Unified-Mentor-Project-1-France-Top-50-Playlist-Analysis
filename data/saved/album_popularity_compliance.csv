@@ -1,0 +1,6 @@
+album_type,is_explicit,count,mean,median
+album,False,4051,77.01,75.0
+album,True,10635,71.45,73.0
+compilation,False,9,79.33,75.0
+single,False,8092,82.85,83.0
+single,True,4994,77.33,76.0

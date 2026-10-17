@@ -1,0 +1,4 @@
+album_type,track_count,average_duration_min,median_duration_min,minimum_duration_min,maximum_duration_min,std_duration_min
+album,14686,3.16,3.04,0.67,9.12,0.55
+compilation,9,2.91,3.28,1.92,4.0,0.85
+single,13086,3.02,2.97,0.0,8.0,0.52

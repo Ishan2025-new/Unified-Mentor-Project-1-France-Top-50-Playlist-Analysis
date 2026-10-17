@@ -1,0 +1,8 @@
+Analysis Area,Primary Metric,Purpose
+Overall Content Profile,Explicit-content percentage,Measure overall explicit-content representation
+Chart Position,Average and median chart position,Compare explicit representation across rankings
+Popularity,Average and median popularity,Compare explicit representation across popularity levels
+Song Duration,Average and median duration,Compare duration patterns
+Album Type,Explicit distribution by album type,Identify album-type differences
+Artist Level,Explicit percentage by eligible artist,Identify artist-level differences
+Time Trend,Daily explicit-content percentage,Measure change and stability over time

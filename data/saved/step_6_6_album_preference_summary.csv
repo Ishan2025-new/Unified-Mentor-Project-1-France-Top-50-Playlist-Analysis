@@ -1,0 +1,4 @@
+album_type,track_count,avg_duration,median_duration,avg_popularity,avg_chart_position,unique_artists,track_percentage
+album,14686,3.16,3.04,72.99,26.73,169,52.86
+single,13086,3.02,2.97,80.74,24.13,200,47.1
+compilation,9,2.91,3.28,79.33,28.67,5,0.03

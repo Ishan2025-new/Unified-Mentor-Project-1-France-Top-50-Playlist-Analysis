@@ -1,0 +1,5 @@
+popularity_group,track_count,avg_popularity,median_popularity,avg_chart_position,median_chart_position,avg_duration_min,median_duration_min,unique_artists
+0–25,108,5.12,0.0,25.19,24.5,3.16,3.15,42
+26–50,360,42.6,44.5,28.78,30.0,2.96,2.88,70
+51–75,13930,69.87,71.0,28.82,30.0,3.06,2.97,213
+76–100,13383,85.18,84.0,21.97,20.0,3.13,3.05,174

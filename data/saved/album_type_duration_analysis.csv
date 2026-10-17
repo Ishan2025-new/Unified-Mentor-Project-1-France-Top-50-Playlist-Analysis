@@ -1,0 +1,4 @@
+album_type,avg_duration_min,median_duration_min,shortest_duration_min,longest_duration_min
+album,3.16,3.04,0.67,9.12
+compilation,2.91,3.28,1.92,4.0
+single,3.02,2.97,0.0,8.0

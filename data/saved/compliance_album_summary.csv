@@ -1,0 +1,6 @@
+album_type,is_explicit,track_count,avg_popularity,avg_duration_min
+album,False,4051,77.01,3.19
+album,True,10635,71.45,3.15
+compilation,False,9,79.33,2.91
+single,False,8092,82.85,2.97
+single,True,4994,77.33,3.09

@@ -1,0 +1,16 @@
+FINAL PROJECT CONCLUSION
+The dataset contains 27781 playlist records, 696 unique songs, and 325 unique artists.
+Among records with valid explicit-content labels, 56.26% are flagged as explicit and 43.74% as non-explicit.
+Average track duration is 3.09 minutes, with a median of 3.00 minutes.
+The most frequently represented album type is album, with 14686 records.
+The average popularity score is 76.64.
+
+RECOMMENDATIONS
+1. Monitor explicit and non-explicit content as separate segments.
+2. Validate content metadata against relevant platform policies.
+3. Compare duration and album-type distributions with popularity and chart position before making format decisions.
+4. Review artist-level patterns using sufficient observations to avoid conclusions based on very small samples.
+5. Repeat the analysis over time to check whether findings persist.
+
+LIMITATIONS
+These findings describe the supplied playlist dataset. They do not establish causation, represent every listener in France, or prove legal or platform-policy compliance. Results may depend on the dataset's collection period, coverage, and data quality.

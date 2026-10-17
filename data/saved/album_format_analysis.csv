@@ -1,0 +1,4 @@
+album_type,track_count,percentage,avg_position,median_position,best_position,avg_popularity,median_popularity,avg_duration_min,median_duration_min,shortest_duration_min,longest_duration_min
+album,14686,52.86,26.73,28.0,1,72.99,73.0,3.16,3.04,0.67,9.12
+single,13086,47.1,24.13,24.0,1,80.74,78.0,3.02,2.97,0.0,8.0
+compilation,9,0.03,28.67,30.0,14,79.33,75.0,2.91,3.28,1.92,4.0

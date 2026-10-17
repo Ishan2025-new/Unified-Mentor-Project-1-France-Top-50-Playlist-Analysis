@@ -1,0 +1,3 @@
+is_explicit,track_count,unique_songs,unique_artists,avg_popularity,median_popularity,avg_chart_position,median_chart_position,avg_duration_min,median_duration_min,track_percentage
+False,12152,242,193,80.9,81.0,26.16,26.0,3.04,3.01,43.74
+True,15629,461,150,73.33,74.0,24.99,25.0,3.13,2.99,56.26
